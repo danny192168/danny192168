@@ -9,18 +9,32 @@ I started coding in high school, building tons of web projects on my phone as a 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!-- A snake I got from the internet -->
 ![snake gif](https://github.com/danny192168/danny192168/blob/output/github-snake-dark.svg)
 # 📊 GitHub Stats:
-📊 GitHub Stats:
+<!-- Copied from a friend's repo -->
+<p align="center">
+  <a href="https://github.com/danny192168?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/danny192168"/>
+  </a>
+  <a href="https://github.com/danny192168?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/danny192168"/>
+  </a>
+  <a href="https://github.com/danny192168?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/danny192168?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/danny192168/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=danny192168&style=for-the-badge&color=lightgrey"/>
+  </a>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=danny192168&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /><br/>
   <img src="https://streak-stats.demolab.com/?user=danny192168&theme=nightowl&hide_border=false" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danny192168&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danny192168&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=danny192168&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ## Baguio, 2600, Philppines
 Based in Sagada but studying in Baguio City.
@@ -28,10 +42,9 @@ Based in Sagada but studying in Baguio City.
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=danny192168&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
