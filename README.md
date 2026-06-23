@@ -13,8 +13,9 @@ I started coding in high school, building tons of web projects on my phone as a 
   </a>
 </p>
 
+
   
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <!-- Copied from a friend's repo -->
 <p align="center">
   <a href="https://github.com/danny192168?tab=repositories&sort=stargazers">
@@ -46,7 +47,7 @@ I started coding in high school, building tons of web projects on my phone as a 
 
 ## Baguio, 2600, Philppines
 Based in Sagada but studying in Baguio City.
-<img width="3543" height="1994" alt="baguio_midnight_blue_20260531_132008" src="https://github.com/user-attachments/assets/da505d17-caef-48fe-9162-c7e1312c40d1" />
+<img width="3543" height="1994" alt="baguio_midnight_blue_20260531_132008" src="https://github.com/user-attachments/assets/da505d17-caef-48fe-9162-c7e1312c40d1" alt="Map of Baguio" />
 
 
 ### ✍️ Random Dev Quote
@@ -54,5 +55,5 @@ Based in Sagada but studying in Baguio City.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) then added with many other things -->
 
