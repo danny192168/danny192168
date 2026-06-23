@@ -1,6 +1,6 @@
-# Hi, I'm Danny 👋
+# Hey There! 👋
 
-I'm a self-taught developer and incoming CS student, currently specializing in **front-end software development**.
+**I'm Danny** - I'm a self-taught developer and incoming CS student, currently specializing in **front-end software development**.
 
 I started coding in high school, building tons of web projects on my phone as a hobby. Now I'm taking it further by pursuing a **computer science degree** in college.
 
@@ -13,10 +13,6 @@ I started coding in high school, building tons of web projects on my phone as a 
   </a>
 </p>
 
-<!-- A snake I got from the internet -->
-<div align="center">
-  <img src="https://github.com/danny192168/danny192168/blob/output/github-snake-dark.svg" alt="snake gif" />
-</div>
   
 # 📊 GitHub Stats:
 <!-- Copied from a friend's repo -->
@@ -33,13 +29,17 @@ I started coding in high school, building tons of web projects on my phone as a 
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=danny192168&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
-
 <!-- other stats -->
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=danny192168&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=danny192168&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&line_height=20" />
   <!-- <img src="https://streak-stats.demolab.com/?user=danny192168&theme=nightowl&hide_border=false" /><br/> -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=danny192168&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+<!-- A snake I got from the internet -->
+<div align="center">
+  <img src="https://github.com/danny192168/danny192168/blob/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
 
 <!--  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=danny192168&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
