@@ -1,6 +1,6 @@
 # Hey There! 👋
 
-**I'm Danny** - I'm a self-taught developer and incoming CS student, currently specializing in **front-end software development**.
+**I'm Danny** - I'm a self-taught developer and a computer science student, currently specializing in **front-end software development**.
 
 I started coding in high school, building tons of web projects on my phone as a hobby. Now I'm taking it further by pursuing a **computer science degree** in college.
 
