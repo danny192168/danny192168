@@ -9,7 +9,7 @@ I started coding in high school, building tons of web projects on my phone as a 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,arduino,py,bootstrap,tailwind,react,remix,ts,vite,npm,supabase,firebase,vercel,vscode,figma,github," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,arduino,py,java,bootstrap,tailwind,react,nextjs,remix,ts,vite,npm,supabase,firebase,vercel,vscode,figma,github, flutter,discord,bots" />
   </a>
 </p>
 
