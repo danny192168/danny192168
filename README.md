@@ -46,7 +46,7 @@ I started coding in high school, building tons of web projects on my phone as a 
 ![](https://github-profile-trophy.vercel.app/?username=danny192168&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ## Baguio, 2600, Philppines
-Based in Sagada but studying in Baguio City.
+From Sagada, studying in Baguio City.
 <img width="3543" height="1994" alt="baguio_midnight_blue_20260531_132008" src="https://github.com/user-attachments/assets/da505d17-caef-48fe-9162-c7e1312c40d1" alt="Map of Baguio" />
 
 
